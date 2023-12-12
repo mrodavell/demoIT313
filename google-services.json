@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682449276161",
+    "project_id": "demoit313",
+    "storage_bucket": "demoit313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682449276161:android:06fcde45cdef8099f0df00",
+        "android_client_info": {
+          "package_name": "com.mrodavell.demoIT313"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPJYceGAMibOXj0dHXeuiHZoNKfxD_6Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
